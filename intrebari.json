@@ -1,0 +1,30 @@
+[
+    {
+        "intrebare": "Ce tip de dispozitiv este mai bun?",
+        "variante": [
+            "Canon 2000D",
+            "Nikon 2000D",
+            "Canon 4000D",
+            "Nikon 2000D"
+        ],
+        "corect": 0
+    },
+    {
+        "intrebare": "Ce tip de incarcare preferati?",
+        "variante": [
+            "baterii",
+            "acumulator",
+            "alimentare"
+        ],
+        "corect":1
+    },
+    {
+        "intrebare": "Care este cea mai importanta componenta?",
+        "variante": [
+            "incarcatorul",
+            "capacul",
+            "husa"
+        ],
+        "corect": 0
+    }
+]
